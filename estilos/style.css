@@ -31,6 +31,7 @@ body {
   color: var(--texto);
 }
 
+
 header {
   display: flex;
   justify-content: flex-end;
@@ -70,6 +71,7 @@ main {
    margin-top: 20px;
 
 }
+
 
 #ficha {
   background-color: var(--fundo-card);
@@ -178,7 +180,7 @@ article h2 {
 
 #skill-container .progresso {
   height: 100%;
-  background-color: var(--destaque-inverso);
+  background-color: var(--destaque);
   border-radius: 4px;
 }
 
